@@ -1,0 +1,105 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #164568;
+}
+
+#image_logo
+{
+   
+    height: 40px;
+}
+
+.teste
+{
+    color: COCOCO;
+}
+
+.H_paragrafo
+{
+    text-align: justify;   
+    margin-top: 15%; 
+}
+
+.tamanho_sabores
+{
+    width: 250px;
+    height: 250px;
+}
+
+.espaco_linha
+{
+    margin-bottom: 10%;
+}
+
+.centraliza_div
+{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#rodape_sabores
+{
+    margin-bottom: 10%;
+}
+
+iframe
+{
+    margin-top: 12%;
+}
+
+.contato_center
+{
+    margin: 5% 10%;
+}
+
+#comentario
+{
+    height: 100%;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+div {
+    text-align: center;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+ 
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.carousel-item {
+    width: 20;
+}
+
+.card {
+    padding: 2px;
+    margin-bottom: 60px;
+}
+
+hr {
+    color: rgb(255, 255, 255);
+}
+
+.titulo {
+    margin-left: -19px;
+}
+
