@@ -103,3 +103,26 @@ hr {
     margin-left: -19px;
 }
 
+p2 {
+    color: aliceblue;
+    position: relative;
+    left: 180px;
+}
+
+p3 {
+    color: aliceblue;
+    position: relative;
+    left: 890px;
+}
+
+p4 {
+    color: aliceblue;
+    position: relative;
+    left: 900px;
+}
+
+p5 {
+    color: aliceblue;
+    position: relative;
+    left: 200px;
+}
